@@ -95,20 +95,6 @@ career-guidance-website/
 │── app.js          # JavaScript logic + database
 │── README.md
 
-### ⚙️ How to Run the Project
-
-Download or clone the repository
-
-Open index.html in any modern browser
-
-Register a new user
-
-Explore careers, colleges & courses
-
-Take the self-assessment test
-
-✅ No backend or server required
-
 ### 🎯 Project Highlights
 
 Fully frontend-based project
@@ -121,11 +107,11 @@ Clean UI & modular JavaScript
 
 Ideal for:
 
-Internship submissions
+    Internship submissions
 
-College projects
+    College projects
 
-Frontend portfolios
+    Frontend portfolios
 
 ### Screenshots
 
@@ -139,4 +125,5 @@ Frontend portfolios
 
 Akriti Srivastav
 Frontend Developer
+
 📧 Email: akritisrivastav3061@gmail.com
