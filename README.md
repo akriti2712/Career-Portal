@@ -124,6 +124,6 @@ Ideal for:
 ### 👩‍💻 Author
 
 Akriti Srivastav
-Frontend Developer
+(Frontend Developer)
 
 📧 Email: akritisrivastav3061@gmail.com
