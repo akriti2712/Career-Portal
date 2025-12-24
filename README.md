@@ -3,6 +3,9 @@
 A dynamic, responsive Career Guidance Web Application built using HTML, CSS, and JavaScript.
 This project helps students explore career options, colleges, and courses, take a self-assessment test, and make informed career decisions.
 
+## 🚀 Live Demo
+👉 https://careerportal.ccbp.tech/
+
 ### 🚀 Live Features
 🔐 User Authentication
 
